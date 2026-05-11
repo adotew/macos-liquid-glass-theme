@@ -1,8 +1,8 @@
 # MacOS Liquid Glass
 
-A dark liquid glass theme for [Zed](https://zed.dev) inspired by Apple's design language.
+A dark liquid glass theme for [Zed](https://zed.dev) inspired by Apple's language.
 
-Native macOS window blur meets a solid, readable editor. System blue accents. Built for macOS.
+macOS window blur meets a solid, readable editor. System blue accents. Built for macOS.
 
 ## Install
 
