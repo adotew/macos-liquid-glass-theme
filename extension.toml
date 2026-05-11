@@ -1,0 +1,7 @@
+id = "macos-liquid-glass"
+name = "MacOS Liquid Glass"
+version = "0.0.1"
+schema_version = 1
+authors = ["Adonai Tewolde"]
+description = "A native dark liquid glass theme for Zed inspired by Apple design. Frosted chrome, solid editor, and system blue accents."
+repository = "https://github.com/adotew/macos-liquid-glass-zed"
